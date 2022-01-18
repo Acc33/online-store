@@ -1,0 +1,14 @@
+{
+  "name": "online-store",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "index.js",
+  "scripts": {
+    "compiler": "node-sass styles/sass/styles.scss styles/styles.css -w"
+  },
+  "author": "Yanquan Chen",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
